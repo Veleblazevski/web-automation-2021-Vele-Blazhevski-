@@ -24,6 +24,7 @@ You can find this reporters by searching:
 
 If u want to see the allure reporter run the tests,
     and put this command in the terminal: 
+        
         allure generate ./allure-results --clean && allure open
 
 The allure reporter also takes screenshots if there is a error;

@@ -28,3 +28,7 @@ If u want to see the allure reporter run the tests,
         allure generate ./allure-results --clean && allure open
 
 The allure reporter also takes screenshots if there is a error;
+
+Genkins video build successfull on this link:
+-Also fixed the allure reporter in jenkins.. 
+  
